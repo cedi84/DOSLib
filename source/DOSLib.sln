@@ -10,6 +10,7 @@ Global
 		Debug_ARX23|x64 = Debug_ARX23|x64
 		Debug_ARX24|x64 = Debug_ARX24|x64
 		Debug_ARX25|x64 = Debug_ARX25|x64
+		Debug_ARX26|x64 = Debug_ARX26|x64
 		Debug_BRX21|x64 = Debug_BRX21|x64
 		Debug_BRX22|x64 = Debug_BRX22|x64
 		Debug_BRX23|x64 = Debug_BRX23|x64
