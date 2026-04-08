@@ -57,6 +57,10 @@
       <Configuration>Release_ARX25</Configuration>
       <Platform>x64</Platform>
     </ProjectConfiguration>
+    <ProjectConfiguration Include="Release_ARX26|x64">
+      <Configuration>Release_ARX26</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
     <ProjectConfiguration Include="Release_BRX21|x64">
       <Configuration>Release_BRX21</Configuration>
       <Platform>x64</Platform>
